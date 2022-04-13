@@ -18,7 +18,7 @@ use MailSo\Base\Validator;
  *
  * @package Modules
  */
-class Module extends \Aurora\System\Module\AbstractWebclientModule
+class Module extends \Aurora\System\Module\AbstractModule
 {
 	public function init()
 	{
