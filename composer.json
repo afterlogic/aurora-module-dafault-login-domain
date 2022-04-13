@@ -1,5 +1,5 @@
 {
-	"name": "afterlogic/aurora-module-dafault-login-domain",
+	"name": "afterlogic/aurora-module-default-login-domain",
 	"type": "aurora-module",
 	"require": {
 		"php": ">=5.4.0",
